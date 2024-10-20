@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aadileb
-- 👀 I’m interested in ... ios development projects
+- 👀 I’m interested in ... web development projects
 - 🌱 I’m currently learning ...masters in information technology
-- 💞️ I’m looking to collaborate on ...ios development
+- 💞️ I’m looking to collaborate on ...web development
 - 📫 How to reach me ...mail me @ aadiltahzeeb1234@gmail.com
 - 😄 Pronouns: ...he
 - ⚡ Fun fact: ...everything until it gives me joy
